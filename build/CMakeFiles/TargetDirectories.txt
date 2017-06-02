@@ -1,5 +1,0 @@
-/Users/yzh/Documents/qtwork/dither/build/CMakeFiles/edit_cache.dir
-/Users/yzh/Documents/qtwork/dither/build/CMakeFiles/rebuild_cache.dir
-/Users/yzh/Documents/qtwork/dither/build/src/CMakeFiles/edit_cache.dir
-/Users/yzh/Documents/qtwork/dither/build/src/CMakeFiles/rebuild_cache.dir
-/Users/yzh/Documents/qtwork/dither/build/src/CMakeFiles/main.dir
